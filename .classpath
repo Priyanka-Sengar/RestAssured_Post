@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/208199/Downloads/RestAssured/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/208199/Downloads/RestAssured/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/208199/Downloads/RestAssured/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/208199/Downloads/RestAssured/groovy-2.4.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/208199/Downloads/RestAssured/groovy-json-2.4.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/208199/Downloads/RestAssured/groovy-xml-2.4.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/208199/Downloads/RestAssured/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/208199/Downloads/RestAssured/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/208199/Downloads/RestAssured/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/208199/Downloads/RestAssured/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/208199/Downloads/RestAssured/httpmime-4.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/208199/Downloads/RestAssured/json-path-3.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/208199/Downloads/RestAssured/rest-assured-3.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/208199/Downloads/RestAssured/rest-assured-common-3.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/208199/Downloads/RestAssured/tagsoup-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/208199/Downloads/RestAssured/xml-path-3.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/208199/Downloads/RestAssured/java-json.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
